@@ -1,0 +1,8 @@
+server:
+  port: 9091
+#Prometheus springboot监控配置
+spring:
+  application:
+    name: hello-demo
+  main:
+    allow-circular-references: true
